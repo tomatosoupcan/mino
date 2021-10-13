@@ -70,6 +70,7 @@ To put your mino together, you'll need to follow these steps:
 
 Current short and long term goals for the project:
 
+* Figure out if the LEDs are wired to be broken, or I just soldered something wrong on my board
 * Add optional position switches for toggleable features on the Brook board
 * Improve ergonomics of the board in hands (consider a more Alice shaped board?)
 * Add optional headphone jack to the bottom of the PCB
