@@ -2,7 +2,7 @@
 
 An open source fightboard made to be cheap, be compatible, and give your thumbs some options.
 
-![Completed Board]("photos/full_board.png")
+![Completed Board](photos/full_board.png)
 
 ## Description
 
