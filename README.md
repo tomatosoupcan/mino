@@ -36,7 +36,7 @@ Below is a list of the components I've used to assemble my mino, but there is de
 |20 Position Receptacle Connector 2.54mm| [Digikey](https://www.digikey.com/)|803-47-020-10-002000|1|
 |USB Type-B Connector| [Digikey](https://www.digikey.com/)|SS-52300-001|1|
 
-![Components]("photos/components.png")
+![Components](photos/components.png)
 
 ### Required Tools
 
@@ -47,20 +47,20 @@ Assembly of your mino will require some soldering and desoldering skills. There 
 * Solder
 * Liquid Flux Pen (recommended but not strictly required)
 
-![Tools]("photos/tools.png")
+![Tools](photos/tools.png)
 
 ## Assembly
 
 To put your mino together, you'll need to follow these steps:
 
-* Using a pair of needle-nosed pliers, remove the white plastic from the angled connectors on your Brook board, circled below. ![Angled Connectors]("photos/brook_pin_headers.png")
-* Using the same pair of pliers, straighten out the now bare pins, so they are pointing straight up, as shown below. ![Altered Pins]("photos/altered_pins.png")
-* Using your soldering iron, and desoldering method of your choice; carefully remove the existing USB-B connector from your Brook board. ![Components]("photos/header_removed.png")
-* Set aside your Brook board, and solder your Receptacle Connectors to the underside of the main PCB as shown here, you will need to clip the 8 position connector down to a 5 position connector with a pair of scissors or a wire trimmer. It can be helpful to tape these components in place in order to get them soldered on straight. ![Trimmed Connector]("photos/trim_guide.png")
-* Ensure that your Brook board can be slotted into these newly soldered connectors from below, then remove the board and set it back aside. ![Connected Board]("photos/brook_inserted.png")
-* Solder the USB-B Connector to the underside of the main PCB as shown here. ![Soldered USB-B]("photos/soldered_header.png")
-* Flip the board over and solder in the LEDs, then trim the legs. The long end of the LED should go through the square hole. ![LEDs]("photos/led_legs.png")
-* Place and solder your switches as indicated on the board, you could also solder on hotswap sockets, but that won't be covered here. ![Soldered Switches]("photos/full_soldered.png")
+* Using a pair of needle-nosed pliers, remove the white plastic from the angled connectors on your Brook board, circled below. ![Angled Connectors](photos/brook_pin_headers.png)
+* Using the same pair of pliers, straighten out the now bare pins, so they are pointing straight up, as shown below. ![Altered Pins](photos/altered_pins.png)
+* Using your soldering iron, and desoldering method of your choice; carefully remove the existing USB-B connector from your Brook board. ![Components](photos/header_removed.png)
+* Set aside your Brook board, and solder your Receptacle Connectors to the underside of the main PCB as shown here, you will need to clip the 8 position connector down to a 5 position connector with a pair of scissors or a wire trimmer. It can be helpful to tape these components in place in order to get them soldered on straight. ![Trimmed Connector](photos/trim_guide.png)
+* Ensure that your Brook board can be slotted into these newly soldered connectors from below, then remove the board and set it back aside. ![Connected Board](photos/brook_inserted.png)
+* Solder the USB-B Connector to the underside of the main PCB as shown here. ![Soldered USB-B](photos/soldered_header.png)
+* Flip the board over and solder in the LEDs, then trim the legs. The long end of the LED should go through the square hole. ![LEDs](photos/led_legs.png)
+* Place and solder your switches as indicated on the board, you could also solder on hotswap sockets, but that won't be covered here. ![Soldered Switches](photos/full_soldered.png)
 * If using a wireless board, connect the antenna and battery to your Brook board, then reattach your Brook board to the main PCB, and if desired, use the 4-40 nut and screw set to fasten the far ends of the Brook board to the PCB.
 * If using a wireless board, connect the antenna to the main PCB, and attach the battery somewhere with the double sided tape.
 * Fasten your main board to the base using the standoffs.
