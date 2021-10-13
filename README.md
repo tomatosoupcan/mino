@@ -53,7 +53,7 @@ Assembly of your mino will require some soldering and desoldering skills. There 
 
 To put your mino together, you'll need to follow these steps:
 
-* Using a pair of needle-nosed pliers, remove the white plastic from the angled connectors on your Brook board, circled below. ![Angled Connectors](photos/brook_pin_headers.png)
+* Using a pair of needle-nosed pliers, remove the white plastic from the angled connectors on your Brook board. ![Angled Connectors](photos/brook_pin_headers.png)
 * Using the same pair of pliers, straighten out the now bare pins, so they are pointing straight up, as shown below. ![Altered Pins](photos/altered_pins.png)
 * Using your soldering iron, and desoldering method of your choice; carefully remove the existing USB-B connector from your Brook board. ![Components](photos/header_removed.png)
 * Set aside your Brook board, and solder your Receptacle Connectors to the underside of the main PCB as shown here, you will need to clip the 8 position connector down to a 5 position connector with a pair of scissors or a wire trimmer. It can be helpful to tape these components in place in order to get them soldered on straight. ![Trimmed Connector](photos/trim_guide.png)
