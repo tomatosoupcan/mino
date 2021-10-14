@@ -64,7 +64,7 @@ To put your mino together, you'll need to follow these steps:
 * If using a wireless board, connect the antenna and battery to your Brook board, then reattach your Brook board to the main PCB, and if desired, use the 4-40 nut and screw set to fasten the far ends of the Brook board to the PCB.
 * If using a wireless board, connect the antenna to the main PCB, and attach the battery somewhere with the double sided tape.
 * Fasten your main board to the base using the standoffs.
-* Attach bumpons to the bottom of your board.
+* Attach bumpons to the bottom of your board. ![Bumpons](photos/bumpons.png)
 
 ## Goals
 
