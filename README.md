@@ -23,7 +23,7 @@ Below is a list of the components I've used to assemble my mino, but there is de
 | Brook Wireless Fighting Board | [Arcade Shock](https://arcadeshock.com/products/brook-ps3-ps4-switch-pc-wireless-fighting-board)      | N/A        |1 |
 | PS3 Battery | [Arcade Shock](https://arcadeshock.com/products/sony-ps3-controller-battery-3-7v-1800mah?_pos=1&_sid=7e64b5296&_ss=r) | N/A | 1|
 | USB Type-B Cable| [Arcade Shock](https://arcadeshock.com/products/usb-a-to-b-10ft-cable?_pos=1&_sid=ae0756121&_ss=r) | N/A|1|
-|4-40 Machine Screw and 4-40 Nut Set| [Arcade Shock](https://arcadeshock.com/products/4-40-machine-screw-and-4-40-nut-set)|N/A|1|
+|4-40 Machine Screw and 4-40 Nut Set (Optional)| [Arcade Shock](https://arcadeshock.com/products/4-40-machine-screw-and-4-40-nut-set)|N/A|1|
 |Kailh Choc Low Profile Switch| [MKUltra](https://mkultra.click/choc-switches) | N/A|22|
 |Kailh Choc Keycaps | [MKUltra](https://mkultra.click/kailh-choc-keycaps) |N/A|22|
 |Standoff Spacers| [Amazon](https://smile.amazon.com/HVAZI-320pcs-Standoffs-assortment-Male-Female/dp/B06XKWDSPT)|N/A|1|
