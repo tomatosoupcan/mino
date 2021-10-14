@@ -73,6 +73,7 @@ Current short and long term goals for the project:
 * Add optional position switches for toggleable features on the Brook board
 * Optional toggle to switch thumb directionals out for thumb L3 and R3
 * Improve ergonomics of the board in hands (consider a more Alice shaped board?)
+* Find a lower profile option for mounting the antenna, or a lower profile antenna
 * Add optional headphone jack to the bottom of the PCB
 * Create an optional switch plate for a cleaner look (would also allow for nice top facing switches for any toggles, instead of side mount)
 * Add support for PS5 module
