@@ -71,6 +71,7 @@ To put your mino together, you'll need to follow these steps:
 Current short and long term goals for the project:
 
 * Add optional position switches for toggleable features on the Brook board
+* Toggle to switch thumb directionals out for thumb L3 and R3
 * Improve ergonomics of the board in hands (consider a more Alice shaped board?)
 * Add optional headphone jack to the bottom of the PCB
 * Create an optional switch plate for a cleaner look (would also allow for nice top facing switches for any toggles, instead of side mount)
