@@ -35,6 +35,9 @@ Below is a list of the components I've used to assemble my mino, but there is de
 |4 Position Receptacle Connector 2.54mm| [Digikey](https://www.digikey.com/)|801-47-004-10-002000|1|
 |20 Position Receptacle Connector 2.54mm| [Digikey](https://www.digikey.com/)|803-47-020-10-002000|1|
 |USB Type-B Connector| [Digikey](https://www.digikey.com/)|SS-52300-001|1|
+|2 Position Switch| [Digikey](https://www.digikey.com/)|EG1224|1|
+|3 Position Switch| [Digikey](https://www.digikey.com/)|EG1313|1|
+|3 Position Switch| [Digikey](https://www.digikey.com/)|78B12ST|2|
 
 ![Components](photos/components.png)
 
@@ -60,6 +63,7 @@ To put your mino together, you'll need to follow these steps:
 * Ensure that your Brook board can be slotted into these newly soldered connectors from below, then remove the board and set it back aside. ![Connected Board](photos/brook_inserted.png)
 * Solder the USB-B Connector to the underside of the main PCB as shown here. ![Soldered USB-B](photos/soldered_header.png)
 * Flip the board over and solder in the LEDs, then trim the legs. The short end of the LED should go through the square hole. Please note that this photo is actually backwards as I messed this up the first time. ![LEDs](photos/led_legs.png)
+* Place and solder your dip switches, socd switch, and directional method switch.
 * Place and solder your switches as indicated on the board, you could also solder on hotswap sockets, but that won't be covered here. ![Soldered Switches](photos/full_soldered.png)
 * If using a wireless board, connect the antenna and battery to your Brook board, then reattach your Brook board to the main PCB, and if desired, use the 4-40 nut and screw set to fasten the far ends of the Brook board to the PCB.
 * If using a wireless board, connect the antenna to the main PCB, and attach the battery somewhere with the double sided tape.
@@ -70,16 +74,16 @@ To put your mino together, you'll need to follow these steps:
 
 Current short and long term goals for the project:
 
-* Add optional position switches for toggleable features on the Brook board
-* Optional toggle to switch thumb directionals out for thumb L3 and R3
+* ~~Add optional position switches for toggleable features on the Brook board~~
+* ~~Optional toggle to switch thumb directionals out for thumb L3 and R3~~
 * Improve ergonomics of the board in hands (consider a more Alice shaped board?)
-* Find a lower profile option for mounting the antenna, or a lower profile antenna
+* ~~Find a lower profile option for mounting the antenna, or a lower profile antenna~~
 * Add optional headphone jack to the bottom of the PCB
 * Create an optional switch plate for a cleaner look (would also allow for nice top facing switches for any toggles, instead of side mount)
 * Add support for PS5 module
 * Create a PCB version for full size switches
 * Remove dependence on Brook boards
-* Adjust the WASD cluster to mimic finger claw placements, similar to the righthand side
+* ~~Adjust the WASD cluster to mimic finger claw placements, similar to the righthand side~~
 * Add a physical power switch
 * Create a 3d printable case to optionally hide the bare pcb look
 
