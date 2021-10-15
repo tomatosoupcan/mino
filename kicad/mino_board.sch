@@ -591,17 +591,6 @@ F 3 "~" H 6075 1125 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AudioJack3_Ground_Switch AUDIO
-U 1 1 616A2FE6
-P 8050 1200
-F 0 "AUDIO" H 8032 1625 50  0000 C CNN
-F 1 "AudioJack3_Ground_Switch" H 8032 1534 50  0000 C CNN
-F 2 "" H 8050 1200 50  0001 C CNN
-F 3 "~" H 8050 1200 50  0001 C CNN
-	1    8050 1200
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x04 JSTICKTYPE
 U 1 1 616A468F
 P 6900 1550
@@ -621,17 +610,6 @@ F 1 "Conn_01x02" H 5130 851 50  0000 L CNN
 F 2 "" H 5050 950 50  0001 C CNN
 F 3 "~" H 5050 950 50  0001 C CNN
 	1    5050 950 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x06 JAUDIO
-U 1 1 616A715C
-P 8800 1200
-F 0 "JAUDIO" H 8880 1192 50  0000 L CNN
-F 1 "Conn_01x06" H 8880 1101 50  0000 L CNN
-F 2 "" H 8800 1200 50  0001 C CNN
-F 3 "~" H 8800 1200 50  0001 C CNN
-	1    8800 1200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line

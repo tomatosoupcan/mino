@@ -399,7 +399,7 @@ Wire Wire Line
 Wire Wire Line
 	4600 4850 4600 5550
 Wire Wire Line
-	4600 5550 4750 5550
+	4600 5550 4700 5550
 Wire Wire Line
 	3950 4750 3950 3200
 Wire Wire Line
@@ -966,7 +966,7 @@ Wire Wire Line
 Wire Wire Line
 	7550 3150 7550 4700
 Wire Wire Line
-	7550 4700 8750 4700
+	7550 4700 7600 4700
 Wire Wire Line
 	1950 7200 1950 7050
 Wire Wire Line
@@ -1099,4 +1099,16 @@ Wire Wire Line
 Connection ~ 8700 4600
 Wire Wire Line
 	8700 4600 8750 4600
+Wire Wire Line
+	4700 5550 4700 7300
+Wire Wire Line
+	4700 7300 7600 7300
+Wire Wire Line
+	7600 7300 7600 4700
+Connection ~ 4700 5550
+Wire Wire Line
+	4700 5550 4750 5550
+Connection ~ 7600 4700
+Wire Wire Line
+	7600 4700 8750 4700
 $EndSCHEMATC
