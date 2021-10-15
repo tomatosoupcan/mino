@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EEC)(type KiCad)(uri D:/Libraries/Documents/mino/mino/mino/resources/eec/eec.pretty)(options "")(descr ""))
+)
