@@ -35,9 +35,10 @@ Below is a list of the components I've used to assemble my mino, but there is de
 |4 Position Receptacle Connector 2.54mm| [Digikey](https://www.digikey.com/)|801-47-004-10-002000|1|
 |20 Position Receptacle Connector 2.54mm| [Digikey](https://www.digikey.com/)|803-47-020-10-002000|1|
 |USB Type-B Connector| [Digikey](https://www.digikey.com/)|SS-52300-001|1|
-|2 Position Switch| [Digikey](https://www.digikey.com/)|EG1224|1|
-|3 Position Switch| [Digikey](https://www.digikey.com/)|EG1313|1|
-|3 Position Switch| [Digikey](https://www.digikey.com/)|78B12ST|2|
+|2 Position Switch| [Digikey](https://www.digikey.com/)|EG2585-ND|1|
+|3 Position Switch| [Digikey](https://www.digikey.com/)|EG2485-ND|1|
+|12 Option Dip Switch| [Digikey](https://www.digikey.com/)|GH7196-ND|2|
+|Flat Antenna (Optional)| [Digikey](https://www.digikey.com/)|1475-B24P-W-ND|2|
 
 ![Components](photos/components.png)
 
