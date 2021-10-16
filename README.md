@@ -18,6 +18,8 @@ mino is in active development. There are likely to be untested changes that _sho
 
 Currently, acquiring a board means getting it printed and assembled by yourself! mino is composed of two boards, a base plate and a pcb, in theory, you only need the pcb, but the base plate helps to keep everything nice and tidy. In the future I may offer PCBs or full kits through a website, but this is currently up in the air. For getting the pcb printed, I recommend going through [JLCPCB](https://jlcpcb.com), their minimum order quantity is 5 per pcb, so share the love with a friend, or others in the community!
 
+![PCB](photos/board_pcb_kicad.png)
+
 ### Acquiring Components
 
 Below is a list of the components I've used to assemble my mino, but there is definitely room for flexibility here.
