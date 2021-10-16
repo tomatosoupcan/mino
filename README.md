@@ -8,6 +8,10 @@ An open source fightboard made to be cheap, be compatible, and give your thumbs 
 
 mino is a fightboard built from the ground up with ergonomics and flexibility in mind. The goal is to encourage comfortable play at an affordable price, and give a good deal of flexibility on how to handle your motion inputs. Inputs are handled with low profile mechanical switches, and the board is compatible with any Brook fighting board.
 
+## Disclaimer
+
+mino is in active development. There are likely to be untested changes that _should_ work but I make no gurantees. You are advised to sanity check the PCB, or switch to the most recent stable branch.
+
 ## Getting Started
 
 ### Acquiring PCBs
@@ -75,16 +79,16 @@ To put your mino together, you'll need to follow these steps:
 
 Current short and long term goals for the project:
 
-* ~~Add optional position switches for toggleable features on the Brook board~~
-* ~~Optional toggle to switch thumb directionals out for thumb L3 and R3~~
+* ~~Add optional position switches for toggleable features on the Brook board~~ (Added 1.1)
+* ~~Optional toggle to switch thumb directionals out for thumb L3 and R3~~ (Added 1.1)
 * Improve ergonomics of the board in hands (consider a more Alice shaped board?)
-* ~~Find a lower profile option for mounting the antenna, or a lower profile antenna~~
+* ~~Find a lower profile option for mounting the antenna, or a lower profile antenna~~ (Added 1.1)
 * Add optional headphone jack to the bottom of the PCB
 * Create an optional switch plate for a cleaner look (would also allow for nice top facing switches for any toggles, instead of side mount)
 * Add support for PS5 module
 * Create a PCB version for full size switches
 * Remove dependence on Brook boards
-* ~~Adjust the WASD cluster to mimic finger claw placements, similar to the righthand side~~
+* ~~Adjust the WASD cluster to mimic finger claw placements, similar to the righthand side~~ (Added 1.1)
 * Add a physical power switch
 * Create a 3d printable case to optionally hide the bare pcb look
 
