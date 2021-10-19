@@ -12,6 +12,8 @@ mino is a fightboard built from the ground up with ergonomics and flexibility in
 
 mino is in active development. There are likely to be untested changes that _should_ work but I make no gurantees. You are advised to sanity check the PCB, or switch to the most recent stable branch.
 
+If you are using a PCB that someone sent you, make sure you have the right component list, as it may have changed since the PCB was printed.
+
 ## Getting Started
 
 ### Acquiring PCBs
